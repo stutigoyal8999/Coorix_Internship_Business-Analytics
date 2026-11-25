@@ -1,6 +1,7 @@
 # Mutual Fund Overview & Insights
 
 **Project 1, Business Analytics Internship, Coorix**
+
 **Author:** Stuti Goyal 
 
 ## Goal
